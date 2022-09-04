@@ -7,4 +7,4 @@
 
 <img src="https://img.shields.io/badge/ubuntu-F05032?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-007396?style=flat-square&logo=MATLAB&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/labview-0769AD?style=for-the-badge&logo=labview&logoColor=white"> 
+<img src="https://img.shields.io/badge/qt-6DB33F?style=for-the-badge&logo=qt&logoColor=white"> <img src="https://img.shields.io/badge/labview-0769AD?style=for-the-badge&logo=labview&logoColor=white"> 

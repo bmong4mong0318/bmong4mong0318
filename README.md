@@ -9,8 +9,4 @@
 
 <img src="https://img.shields.io/badge/qt-6DB33F?style=for-the-badge&logo=qt&logoColor=white"> <img src="https://img.shields.io/badge/labview-0769AD?style=for-the-badge&logo=labview&logoColor=white"> 
 
-<div align="center">
 
-[![dayun's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
-
-</dev>

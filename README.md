@@ -12,10 +12,6 @@
 ### Tools
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-<br>
-<br>
 <img src="https://img.shields.io/badge/ubuntu-F05032?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-007396?style=flat-square&logo=MATLAB&logoColor=white"/>
 
-<br>
-<br>
 <img src="https://img.shields.io/badge/qt-6DB33F?style=for-the-badge&logo=qt&logoColor=white"> <img src="https://img.shields.io/badge/labview-0769AD?style=for-the-badge&logo=labview&logoColor=white"> 

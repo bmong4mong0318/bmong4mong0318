@@ -14,4 +14,15 @@
 
 <img src="https://img.shields.io/badge/ubuntu-F05032?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-007396?style=flat-square&logo=MATLAB&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/qt-6DB33F?style=for-the-badge&logo=qt&logoColor=white"> <img src="https://img.shields.io/badge/labview-0769AD?style=for-the-badge&logo=labview&logoColor=white"> 
+<img src="https://img.shields.io/badge/qt-6DB33F?style=for-the-badge&logo=qt&logoColor=white"> <img src="https://img.shields.io/badge/labview-0769AD?style=for-the-badge&logo=labview&logoColor=white">
+
+<br>
+
+### 42 Seoul Status
+[![dayun's 42 stats](https://badge42.vercel.app/api/v2/cl7nfhdqv00060gmwzq2h4ffy/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+
+
+### GitHub Status
+| ![daehyeok yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmong4mong0318&show_icons=true&hide_border=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmong4mong0318&layout=compact&hide_border=true&theme=dark) |
+| ------------- | ------------- |
+

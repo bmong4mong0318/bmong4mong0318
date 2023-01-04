@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbmong4mong0318&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bmong4mong0318)](https://solved.ac/bmong4mong0318)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bmong4mong0318)](https://solved.ac/bmong4mong0318) 
 
 ### Tools
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>

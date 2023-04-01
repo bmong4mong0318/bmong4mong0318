@@ -24,13 +24,6 @@
 </div>
 </div>
 
-<style>
-.container {
-	display: flex;
-	/* display: inline-flex; */
-}
-</style>
-
 ### 42 Seoul Status
 [![dayun's 42 stats](https://badge42.vercel.app/api/v2/cl7nfhdqv00060gmwzq2h4ffy/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
